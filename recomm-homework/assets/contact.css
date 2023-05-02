@@ -1,0 +1,200 @@
+body {
+    background: url(https://previews.123rf.com/images/ookasan/ookasan1612/ookasan161200108/67530209-grunge-white-wood-texture-of-wooden-boards-floor.jpg);
+}
+
+li {
+    float: right;
+
+}
+
+h1 {
+    float: left;
+    font-size: 35px;
+    background-color: #4aaaa5;
+    color: white;
+    height: 100%;
+    margin-left: 240px;
+    width: 250px;
+    text-align: center;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+header {
+    border-bottom: 2px solid rgb(171, 170, 170);
+    height: 90px;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.contact {
+    margin-left: 25px;
+    margin-right: 250px;
+    margin-top: 30px;
+}
+
+.portfolio {
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+.about {
+    margin-top: 30px;
+}
+
+li a {
+    text-decoration: none;
+    color: rgb(114, 111, 111);
+    font-size: 20px;
+}
+
+.left-side {
+    width: 64%;
+    height: 690px;
+    float: left;
+    box-sizing: border-box;
+    margin-top: 100px;
+}
+
+.right-side {
+    width: 36%;
+    height: 690px;
+    float: left;
+    box-sizing: border-box;
+    margin-top: 100px;
+}
+
+.left-board {
+    width: 650px;
+    height: 600px;
+    background-color: white;
+    margin-left: 240px;
+    margin-top: 40px;
+}
+
+.right-board {
+    width: 270px;
+    height: 190px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+hr {
+    width: 90%;
+    border: 1.5px solid rgb(194, 191, 191);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.right-board h2 {
+    color: #4aaaa5;
+    font-size: 30px;
+    padding: 20px;
+    padding-bottom: 0;
+}
+
+.right-hr {
+    border: 1px solid rgb(221, 216, 216);
+}
+
+.icons li {
+    float: left;
+}
+
+.icons .git img {
+    margin-left: 35px;
+}
+
+.icons .linkedin img {
+    margin-left: 5px;
+}
+
+.icons .stack {
+    margin-left: 5px;
+}
+
+.left-board h2 {
+    color: #4aaaa5;
+    font-size: 35px;
+    padding: 30px;
+}
+
+.name {
+    display: block;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+
+
+}
+
+.name-type {
+    display: block;
+    margin-left: 20px;
+    width: 600px;
+    height: 25px;
+}
+
+.email {
+    display: block;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+.email-type {
+    display: block;
+    margin-left: 20px;
+    width: 600px;
+    height: 25px;
+
+}
+
+.message {
+    margin-left: 20px;
+    display: block;
+    margin-top: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+
+.message-type {
+    margin-left: 20px;
+    display: block;
+    width: 600px;
+    height: 200px;
+
+}
+
+button {
+    background-color: #4aaaa5;
+    color: white;
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: none;
+}
+
+footer {
+    width: 100%;
+    background-color: rgb(85, 85, 85);
+    height: 100px;
+    position: absolute;
+    top: 775px;
+    border-top: 8px solid #4aaaa5;
+}
+
+footer p {
+    font-size: 13px;
+    color: rgb(196, 193, 193);
+    text-align: center;
+    padding: 40px;
+}
